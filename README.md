@@ -4,12 +4,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GishanSithumina&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GishanSithumina&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GishanSithumina&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/act38n"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
